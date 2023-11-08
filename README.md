@@ -9,7 +9,7 @@ the project is created with:
 * Mongoose
 
 ### Testing: 
-After downloading the project, you can import the postman collection to your postman app and test the different requests.
+After downloading the project, you can import the postman collection which is in the a directory named postman to your postman app and test the different requests.
 
 ### Things you need to install to run the project:
 * install NodeJS
