@@ -9,7 +9,21 @@ the project is created with:
 * Mongoose
 
 ### Testing: 
-After downloading the project, you can import the postman collection which is in the a directory named postman to your postman app and test the different requests.
+After downloading the project, you can import the postman collection which is in the a directory named postman to your postman app and test the different requests.<br>
+to login:<br> 
+for the users: 
+| Email             |  Password  |
+|:------------------|--------:|
+| user1@gmail.com   | 12345 |
+| user2@gmail.com   |  12345 |
+| user3@gmail.com   | 12345 | 
+
+for the experts: 
+| Email |  Password  |
+|:-----|--------:|
+| expert1@gmail.com   | 12345 |
+| expert2@gmail.com   |  12345 |
+| expert3@gmail.com   | 12345 | 
 
 ### Things you need to install to run the project:
 * install NodeJS
