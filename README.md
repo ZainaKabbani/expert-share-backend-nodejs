@@ -9,6 +9,9 @@ the project is created with:
 * Mongoose
 
 ### Testing: 
+
+> **_NOTE:_**  The response may take some time due to the deployment on Atlas and Cyclic.
+
 After downloading the project, you can import the postman collection which is in the a directory named postman to your postman app and test the different requests.<br>
 to login:<br> 
 for the users: 
